@@ -1,0 +1,1 @@
+export default function RegistrarEncomenda() { return <>Registrar Encomenda</>; }

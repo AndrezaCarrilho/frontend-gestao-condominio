@@ -1,0 +1,1 @@
+export default function QuadroAvisos() { return <>Quadro de Avisos</>; }

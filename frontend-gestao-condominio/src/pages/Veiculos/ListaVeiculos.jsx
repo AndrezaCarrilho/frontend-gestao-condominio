@@ -1,0 +1,1 @@
+export default function ListaVeiculos() { return <>Lista de Veículos</>; }

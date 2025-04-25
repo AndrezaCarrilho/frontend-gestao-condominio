@@ -1,0 +1,1 @@
+export default function ListaEncomendas() { return <>Lista de Encomendas</>; }

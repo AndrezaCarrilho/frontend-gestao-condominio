@@ -1,0 +1,1 @@
+export default function CardAcesso() { return <>Card de Acesso</>; }

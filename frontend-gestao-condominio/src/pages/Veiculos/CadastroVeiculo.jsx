@@ -1,0 +1,1 @@
+export default function CadastroVeiculo() { return <>Cadastro de Veículo</>; }

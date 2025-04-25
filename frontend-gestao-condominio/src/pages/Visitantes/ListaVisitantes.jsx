@@ -1,0 +1,1 @@
+export default function ListaVisitantes() { return <>Lista de Visitantes</>; }

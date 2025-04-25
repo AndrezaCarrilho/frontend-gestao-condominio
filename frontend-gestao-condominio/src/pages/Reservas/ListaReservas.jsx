@@ -1,0 +1,1 @@
+export default function ListaReservas() { return <>Lista de Reservas</>; }

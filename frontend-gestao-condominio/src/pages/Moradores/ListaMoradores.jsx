@@ -1,0 +1,1 @@
+export default function ListaMoradores() { return <>Lista de Moradores</>; }

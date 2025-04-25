@@ -1,0 +1,1 @@
+export default function CadastroMorador() { return <>Cadastro de Morador</>; }

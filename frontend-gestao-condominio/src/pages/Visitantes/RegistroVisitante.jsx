@@ -1,0 +1,1 @@
+export default function RegistroVisitante() { return <>Registro de Visitante</>; }
